@@ -8,7 +8,6 @@ $("h5#cartastitulo.card-title").on("click", function() {
 
 })
 
-
 $(document).ready(function(){
  $("a").on('click', function(event) {
  if (this.hash !== "") {
