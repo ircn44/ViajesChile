@@ -104,3 +104,7 @@ footer {
 #github, #linkedin, #twitter {
     margin-right: -125px;
 }
+
+.h1, h1 {
+    color:white;
+}
