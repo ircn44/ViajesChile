@@ -1,0 +1,165 @@
+body {
+
+    color: black;
+    font-family: "Tilt Neon", sans-serif;
+}
+
+
+a.navbar-brand {
+
+color: white;
+font-size: 20px;
+font-weight: 400;
+margin-left: 7px;
+
+}
+
+a.nav-link {
+
+color: white;
+
+}
+
+
+#carousel img {
+    object-fit: cover;
+    height: 900px;
+    width: auto;
+}
+
+#carousel {
+
+background-color: black;
+
+}
+
+h1 {
+
+text-align: center;
+margin-bottom: 70px;
+color: white;
+
+
+}
+
+#QuienesSomos {
+
+    background-color: black;
+    color: white;
+    padding-top: 40px;
+    
+}
+
+.tituloquienessomos {
+
+margin-bottom: -20px;
+
+}
+
+p {
+
+margin-top: 30px;
+font-size: 20px;
+text-align: left;
+
+}
+
+i {
+
+font-size: 40px;
+margin-left: 150px;
+margin-top: 20px;
+
+
+}
+
+i.fa-solid.fa-square-caret-up::before {
+
+margin-left: 25px;
+
+
+}
+
+
+
+#Destacados {
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+}
+
+div.card-body {
+
+background-color: #1d8acb;
+color: white;
+
+}
+
+
+.card-img-top {
+
+height: 200px;
+
+}
+
+#CONTACTO {
+
+background-color: black;
+color: white;
+padding-top: 50px;
+}
+
+button.btn.btn-primary {
+
+background-color: #1d8acb;
+margin-bottom: 20px;
+
+}
+
+footer {
+
+    background-color: #1d8acb;
+    padding-bottom: 20px;
+    height: 170px;
+}
+
+
+
+div.row.pt-5 {
+
+padding-bottom: -40px;
+margin-bottom: -20px;
+
+}
+
+#iconos {
+
+margin-left: 300px;
+color: white;
+margin-top: 35px;
+
+
+}
+
+#github {
+
+    margin-right: -100px;
+}
+
+#linkedin {
+
+    margin-right: -100px;
+
+}
+
+#twitter {
+
+    margin-right: -100px;    
+}
+
+#texto {
+
+margin-top: 50px;
+margin-left: 100px;
+
+}
